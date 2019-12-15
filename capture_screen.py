@@ -12,7 +12,7 @@ import time
 from mouse_movement import mouse_movement
 
 from IPython.display import Image
-Image(filename='edges,jpg')
+Image(filename='edges.jpg')
 
 def roi(img, vertices):
     #blank mask:
